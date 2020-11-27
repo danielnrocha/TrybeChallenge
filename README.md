@@ -1,6 +1,6 @@
 # Previsão de Desempenho de Alunos
 ## TrybeChallenge – Processo Seletivo Data Scientist
-Desafio: "Como predizer o desempenhos dos estudantes nas avaliações finais?"
+Desafio: "Como predizer o desempenhos dos estudantes nas avaliações finais?" <br>
 O dataset utilizado foi do Open University Learning Analytics: https://analyse.kmi.open.ac.uk/open_dataset
 
 - Apresentação de Slides: https://bit.ly/2V6ErRj
