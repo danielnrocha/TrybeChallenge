@@ -3,6 +3,8 @@
 Desafio: "Como predizer o desempenhos dos estudantes nas avaliações finais?"
 O dataset utilizado foi do Open University Learning Analytics: https://analyse.kmi.open.ac.uk/open_dataset
 
+- Apresentação de Slides: https://bit.ly/2V6ErRj
+
 <img src="https://github.com/danielnrocha/TrybeChallenge/blob/main/logo_ppt.png" width="700">
 
 **Descrição**
