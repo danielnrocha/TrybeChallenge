@@ -3,6 +3,8 @@
 Desafio: "Como predizer o desempenhos dos estudantes nas avaliações finais?"
 O dataset utilizado foi do Open University Learning Analytics: https://analyse.kmi.open.ac.uk/open_dataset
 
+<img src="https://github.com/danielnrocha/TrybeChallenge/blob/main/logo_ppt.png" width="700">
+
 **Descrição**
 - Modelo de previsão da nota final de alunos, usando dados demográficos, de atividades realização na plataforma de educação virtual e informações sobre as avaliações.
 
